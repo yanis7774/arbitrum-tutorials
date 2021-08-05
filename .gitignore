@@ -1,9 +1,10 @@
-.DS_Store
-node_modules/
-packages/.DS_Store
-packages/*/.DS_Store
-packages/*/artifacts/
-packages/*/cache/
-packages/*/build/
-packages/*/node_modules/
-packages/*/.env
+# File konfigurasi IDE
+# ---------------------
+/nbproject/
+.idea/*
+# File cache Sublime Text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
